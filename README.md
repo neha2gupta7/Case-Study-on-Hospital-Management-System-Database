@@ -71,6 +71,8 @@ The database schema consists of several interconnected tables to manage hospital
 
 **AuditLogs**: Records changes to sensitive data for transparency and compliance.
 
+
+
 **Technologies Used**:
 
 **Database Management System (DBMS)**: MySQL or PostgreSQL
