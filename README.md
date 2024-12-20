@@ -1,6 +1,6 @@
 **1. Research Document**
 
-  *  Incorporated the provided insights into a Google Doc with sections like:
+  *  Provided insights into a PDF with sections like:
     
      *  Introduction: Importance of Hospital Management Systems (HMS).
     
